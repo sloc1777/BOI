@@ -5,6 +5,6 @@ A DOI aims to be "resolvable", usually to some form of access to the information
 
 The DOI for a document remains fixed over the lifetime of the document, whereas its location and other metadata may change. Referring to an online document by its DOI is supposed to provide a more stable link than simply using its URL. But every time a URL changes, the publisher has to update the metadata for the DOI to link to the new URL.
 
-# The problem with DOI
 
 # Blockchain Object Identifier System (BOI)
+Introducing the Blockchain Object Identifier System (BOI) and DOI-system based on the NEM blockchain. The system differentiates it from the DOI system because it is fully decentralized, which means no centralized entities is controlling who can create and update BOI's. Moreover, the NEM BOI system only cost a fraction of the price of using the original DOI-system. The original DOI-system can cost up to 1 $ usd for each DOI registration plus and annual fee. Using the BOI-system will only cost a few cents per registration.
