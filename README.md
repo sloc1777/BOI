@@ -6,7 +6,7 @@ Introducing the Blockchain Object Identifier System (BOI) and DOI-system based o
 ![image](https://i.imgur.com/5J86nl7.png)
 
 # What is a Digital Object Identifier System (DOI)
-In computing, a Digital Object Identifier or DOI is a persistent identifier or handle used to uniquely identify objects, standardized by the International Organization for Standardization (ISO). An implementation of the Handle System, DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications though they also have been used to identify other types of information resources, such as commercial videos.
+In computing, a Digital Object Identifier or DOI is a persistent identifier or handle used to uniquely identify objects, standardized by the International Organization for Standardization (ISO). An implementation of the Handle System, DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications though they also have been used to identify other types of information resources, such as commercial videos. Over 175 million DOI have been issued.
 
 A DOI aims to be "resolvable", usually to some form of access to the information object to which the DOI refers. This is achieved by binding the DOI to metadata about the object, such as a URL, indicating where the object can be found. Thus, by being actionable and interoperable, a DOI differs from identifiers such as ISBNs and ISRCs which aim only to uniquely identify their referents.
 
