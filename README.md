@@ -1,7 +1,7 @@
 ![image](https://i.imgur.com/oH1sSSg.png)
 
 # Blockchain Object Identifier System (BOI)
-Introducing the Blockchain Object Identifier System (BOI) and DOI-system based on the NEM blockchain. The system differentiates it from the DOI system because it is fully decentralized, which means no centralized entities is controlling who can create and update BOI's. Moreover, the NEM BOI system only cost a fraction of the price of using the original DOI-system. The original DOI-system can cost up to 1 $ usd for each DOI registration plus and annual fee. Using the BOI-system will only cost a few cents per registration and no annual fee.
+Introducing the Blockchain Object Identifier System (BOI) an DOI-system based on the NEM blockchain. The system differentiates it from the traditional DOI system because it is fully decentralized, which means no centralized entities is controlling who can create and update BOI's. Moreover, the NEM BOI system only cost a fraction of the price of using the original DOI-system. The original DOI-system can cost up to 1 $ usd for each DOI registration plus and annual fee. Using the BOI-system will only cost a few cents per registration and no annual fee.
 
 ![image](https://i.imgur.com/5J86nl7.png)
 
@@ -30,7 +30,8 @@ The protocol in its self is pretty simple.  The BOI link is translated to a NEM 
 
 ##### Example
 
-You can try this BOI as an example ([BOI:Proce./1540543147317](https://nemboi.netlify.com/?boi=Proce./1540543147317)), the BOI is an identifier to the acedemic publication "Toward unique identifiers":
+You can try this BOI as an example ([BOI:Proce./1540543147317](https://nemboi.netlify.com/?boi=Proce./1540543147317)), the BOI is an identifier to the academic publication "Toward unique identifiers":
+ 
 
 Toward unique identifiers. N Paskin - Proceedings of the IEEE, 1999, 87(7), 1208-1227.
 
