@@ -14,20 +14,21 @@ The DOI for a document remains fixed over the lifetime of the document, whereas 
 
 
 # API
+You can use the BOI api for direct linking, retrieving metadata as json or information about BOI ownership. 
 
-##### Example: 
+##### Linking to object
 ?boi=Proce./1540543147317
 
 Will redirect the user to the url linked to the BOI object.
 
-##### Example: 
+##### Get BOI metadata 
 ?json=yes&boi=Proce./1540543147317
 
 Example of returned JSON object: 
 ```json
 {"BOI":"yes", "url":"https://ieeexplore.ieee.org/document/771073","title":"Toward unique identifiers","authors":"N. Paskin et al.","publisher":"Proceedings of the IEEE","year":"1999","vol":"87","issue":"7","pages":"1208 - 1227" }
 ``` 
-##### Example: 
+##### Get BOI owner 
 ?owner=yes&boi=Proce./1540543147317
 
 Example of returned JSON object: 
