@@ -23,14 +23,14 @@ Will redirect the user to the url linked to the BOI object.
 ##### Example: 
 ?json=yes&boi=Proce./1540543147317
 
-##### Example of returned JSON object: 
+Example of returned JSON object: 
 ```json
 {"BOI":"yes", "url":"https://ieeexplore.ieee.org/document/771073","title":"Toward unique identifiers","authors":"N. Paskin et al.","publisher":"Proceedings of the IEEE","year":"1999","vol":"87","issue":"7","pages":"1208 - 1227" }
 ``` 
 ##### Example: 
 ?owner=yes&boi=Proce./1540543147317
 
-##### Example of returned JSON object: 
+Example of returned JSON object: 
 ```json
 {"owner":"NBJ4HJSBDZA4CKH2N4EMV2RURTTNX34HDULNSLNE"}
 ``` 
