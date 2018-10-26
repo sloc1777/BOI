@@ -13,6 +13,12 @@ A DOI aims to be "resolvable", usually to some form of access to the information
 
 The DOI for a document remains fixed over the lifetime of the document, whereas its location and other metadata may change. Referring to an online document by its DOI is supposed to provide a more stable link than simply using its URL. But every time a URL changes, the publisher has to update the metadata for the DOI to link to the new URL.
 
+# How it works
+
+BOI is a decentralized application (dApp) that runs on a P2P network (NEM) of computers rather than a single computer. The BOI dApp is a layer between the users/publishers and the blockchain. That layer can be applied from anywhere on any computer as means for structuring the BOI data on the blockchain or retrieving and analyzing the data in coherence with the protocol.
+
+The protocol in its self is pretty simple.  The BOI link is translated to a NEM pointer address, this address holds the BOI data. The ownership of the BOI address is established when the first transaction is sent to the address. A json object is included in the transaction as a message, with the BOI data from the owner. When a user accesses a BOI link, the link is translated once again to the NEM pointer address, the protocol looks up the newest BOI transaction from the owner and translate this in to the BOI data and metadata. 
+
 
 ![image](https://i.imgur.com/Ld4R6TJ.png)
 
