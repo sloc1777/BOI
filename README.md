@@ -13,6 +13,12 @@ A DOI aims to be "resolvable", usually to some form of access to the information
 
 The DOI for a document remains fixed over the lifetime of the document, whereas its location and other metadata may change. Referring to an online document by its DOI is supposed to provide a more stable link than simply using its URL. But every time a URL changes, the publisher has to update the metadata for the DOI to link to the new URL.
 
+# Website
+
+Your can try out the BOI system by visiting our test site running on the NEM mainnet:
+
+https://nemboi.netlify.com/
+
 # How it works
 
 BOI is a decentralized application (dApp) that runs on a P2P network (NEM) of computers rather than a single computer. The BOI dApp is a layer between the users/publishers and the blockchain. That layer can be applied from anywhere on any computer as means for structuring the BOI data on the blockchain or retrieving and analyzing the data in coherence with the protocol.
@@ -22,11 +28,9 @@ The protocol in its self is pretty simple.  The BOI link is translated to a NEM 
 
 ![image](https://i.imgur.com/Ld4R6TJ.png)
 
-# Website
+##### Example
 
-Your can try out the BOI system by visiting our test site running on the NEM mainnet:
-
-https://nemboi.netlify.com/
+You can try this BOI as an example, the BOI is an identifier to an acedemic publication
 
 
 # API
