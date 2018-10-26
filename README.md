@@ -32,5 +32,5 @@ Will redirect the user to the url linked to the BOI object.
 
 ##### Example of returned JSON object: 
 ```json
-{"owner":"NBJ4HJSBDZA4CKH2N4EMV2RURTTNX34HDULNSLES"}
+{"owner":"NBJ4HJSBDZA4CKH2N4EMV2RURTTNX34HDULNSLNE"}
 ``` 
