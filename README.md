@@ -13,6 +13,13 @@ A DOI aims to be "resolvable", usually to some form of access to the information
 The DOI for a document remains fixed over the lifetime of the document, whereas its location and other metadata may change. Referring to an online document by its DOI is supposed to provide a more stable link than simply using its URL. But every time a URL changes, the publisher has to update the metadata for the DOI to link to the new URL.
 
 
+# Website
+
+Your can try out the BOI system by visiting our test site running on the NEM mainnet:
+
+https://nemboi.netlify.com/
+
+
 # API
 You can use the BOI api for direct linking, retrieving metadata as json or information about BOI ownership. 
 
