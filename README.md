@@ -30,7 +30,7 @@ The protocol in its self is pretty simple.  The BOI link is translated to a NEM 
 
 ##### Example
 
-You can try this BOI as an example, the BOI is an identifier to an acedemic publication
+You can try this BOI as an example ([BOI:Proce./1540543147317](https://nemboi.netlify.com/?boi=Proce./1540543147317)), the BOI is an identifier to an acedemic publication
 
 
 # API
